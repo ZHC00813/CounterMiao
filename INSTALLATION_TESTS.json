@@ -1,0 +1,11 @@
+{
+  "version": "4.3",
+  "fresh_install": true,
+  "installed_file_hashes_match": true,
+  "installed_app_regressions": 165,
+  "english_upgrade": true,
+  "user_files_survive_upgrade": true,
+  "uninstall": true,
+  "user_batch_survives_uninstall": true,
+  "uninstall_registry_removed": true
+}
